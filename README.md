@@ -1,6 +1,6 @@
 # Map_Router
 
-## Project compares two search algorithms - A* Search and Grredy Best First
+## Project compares two search algorithms - A* Search and Greedy Best First
 
 * In this project we will consider an Initial state and a Goal state and find an optimal shortest path between them using two different algorithms
 * In A* Search algorithm we add every state's distance with it's heuristic value to find the least farthest state from the current state chosen
